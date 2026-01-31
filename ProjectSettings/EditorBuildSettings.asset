@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ClickerGame/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/ClickerGame/Scenes/Bootstrap.unity
+    guid: 561deb152f4e4d6419724412b21e9d03
+  - enabled: 1
+    path: Assets/ClickerGame/Scenes/Game.unity
+    guid: 794e8a822a79cb54bbc23665c85c9fb1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

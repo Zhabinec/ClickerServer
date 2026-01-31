@@ -261,8 +261,8 @@ MonoBehaviour:
   headlessStartMode: 0
   editorAutoStart: 0
   sendRate: 60
-  offlineScene: 
-  onlineScene: 
+  offlineScene: Assets/ClickerGame/Scenes/Bootstrap.unity
+  onlineScene: Assets/ClickerGame/Scenes/Game.unity
   offlineSceneLoadDelay: 0
   transport: {fileID: 1522785059}
   networkAddress: localhost
